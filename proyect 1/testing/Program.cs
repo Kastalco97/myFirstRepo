@@ -9,5 +9,3 @@ var connectionString = config["ConnectionStrings:DefaultConnection"] ?? "Cadena 
 
 Console.WriteLine("Hello, Platzi!");
 Console.WriteLine($"Cadena de conexión simulada: {connectionString}");
-
-string stripe_api_key = "asdasddadfgdgdgdg6489r7";
