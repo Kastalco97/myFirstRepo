@@ -1,0 +1,5 @@
+*.sln
+*.csproj
+
+# Omit this file from push
+appsettings.json
