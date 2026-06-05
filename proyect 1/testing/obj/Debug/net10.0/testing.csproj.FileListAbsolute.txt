@@ -1,0 +1,15 @@
+/workspaces/myFirstRepo/proyect 1/testing/bin/Debug/net10.0/testing
+/workspaces/myFirstRepo/proyect 1/testing/bin/Debug/net10.0/testing.deps.json
+/workspaces/myFirstRepo/proyect 1/testing/bin/Debug/net10.0/testing.runtimeconfig.json
+/workspaces/myFirstRepo/proyect 1/testing/bin/Debug/net10.0/testing.dll
+/workspaces/myFirstRepo/proyect 1/testing/bin/Debug/net10.0/testing.pdb
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.AssemblyInfoInputs.cache
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.AssemblyInfo.cs
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.csproj.CoreCompileInputs.cache
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.sourcelink.json
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.dll
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/refint/testing.dll
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.pdb
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/testing.genruntimeconfig.cache
+/workspaces/myFirstRepo/proyect 1/testing/obj/Debug/net10.0/ref/testing.dll
